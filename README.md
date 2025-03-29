@@ -1,4 +1,1 @@
-# algorithm-java
-
-base
-sword
+# algorithm practise
